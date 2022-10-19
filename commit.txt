@@ -1,0 +1,4 @@
+1. finish shop receipt
+2. finish shop receipts footer
+3. finish member report
+4. finish vary_size
